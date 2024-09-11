@@ -1,10 +1,8 @@
 
 
 Welcome to my domain!
-I'm Brey'Aisa! A computer Science Major studying at John Carroll University.
-This GitHub will be a mixture of my own personal projects as well as examples & projects created during my undergraduate years.
-I have many interest in the world of technology. It all started with game development and eventually grew into a love for cybersecurity as well
-My most common interest are between Cybersecurity and Web development. 
-As of currently I am studying multiple languages but the two I use most are Java & Python.
+My name is Brey'Aisa but I go by Ash. I am a Triple Major studying Computer Science, Clinical & Counseling Psychology, and Women, Gender & Sexuality at JCU.
+This GitHub is where eventually I will upload all my projects from my undergraduate years, any personal projects, and hopefully update often. I'm not that great at being active here as 
+most of my personal experience comes from my job at Goddess Elite where I have designed and currently maintain their website and it's functionality.
+I am always looking to learn & collaborate. Any opportunity to learn is an opportunity I have interest in taking, so please feel free to reach out!
 
-I am always looking to learn & collaborate. Any opportunity to learn is an opportunity to me! 
